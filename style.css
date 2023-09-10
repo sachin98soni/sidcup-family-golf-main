@@ -52,7 +52,7 @@ body {
 #nav {
   height: 130px;
   width: 100%;
-  /* background-color: red; */
+  
   display: flex;
   align-items: center;
   padding: 0 120px;
@@ -148,7 +148,7 @@ video {
 }
 
 #scroller {
-  /* background-color: red; */
+  
   white-space: nowrap;
   overflow-x: auto;
   overflow-y: hidden;
@@ -194,7 +194,7 @@ video {
 #about-us {
   height: 40vh;
   width: 100%;
-  /* background-color: red; */
+  
   display: flex;
   padding: 0 50px;
   align-items: center;
@@ -223,7 +223,7 @@ video {
 }
 
 #cards-container {
-  /* background-color: red; */
+  
   height: 60vh;
   display: flex;
   align-items: center;
@@ -235,7 +235,7 @@ video {
 .card {
   height: 80%;
   width: 24%;
-  /* background-color: blue; */
+  
   border-radius: 20px;
   background-size: cover;
   background-position: center;
@@ -284,7 +284,7 @@ video {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background-color: red; */
+  
   background: linear-gradient(to left bottom, #119f3a, #ace022);
 }
 #green-div h4 {
@@ -412,7 +412,7 @@ video {
   width: fit-content;
   position: relative;
   z-index: 99;
-  /* background-color: red; */
+
 }
 #f2 h3 {
   font-size: 1.6vw;
